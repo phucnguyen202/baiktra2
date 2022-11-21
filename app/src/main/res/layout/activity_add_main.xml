@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context=".Add_MainActivity"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#03A9F4"
+        android:text="Add New Tree"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+    <TextView
+        android:text="Tên Khoa học"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:paddingTop="14dp"
+        android:paddingBottom="14dp"
+        android:textColor="#2196F3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/edt_tencauthu"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/reunded"
+        android:ellipsize="end"
+        android:lines="1"
+        android:paddingLeft="14dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:textSize="22dp"
+        android:textColor="@color/black"
+        tools:ignore="TouchTargetSizeCheck,TouchTargetSizeCheck,SpeakableTextPresentCheck,SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+    <TextView
+        android:text="Thể thường gọi"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:paddingTop="14dp"
+        android:paddingBottom="14dp"
+        android:textColor="#2196F3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/edt_giacauthu"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/reunded"
+        android:ellipsize="end"
+        android:lines="1"
+        android:paddingLeft="14dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:textSize="22dp"
+        android:textColor="@color/black"
+        tools:ignore="TouchTargetSizeCheck,TouchTargetSizeCheck,SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+    <TextView
+        android:text="Tên Cây"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:paddingTop="14dp"
+        android:paddingBottom="14dp"
+        android:textColor="#2196F3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/edt_motacauthu"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/reunded"
+        android:ellipsize="end"
+        android:lines="1"
+        android:paddingLeft="14dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:textSize="22dp"
+        android:textColor="@color/black"
+        tools:ignore="TouchTargetSizeCheck,TouchTargetSizeCheck,SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+    <TextView
+        android:text="Link Ảnh"
+        android:textSize="20dp"
+        android:lines="1"
+        android:gravity="center"
+        android:paddingTop="14dp"
+        android:paddingBottom="14dp"
+        android:textColor="#2196F3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/edt_linkanh"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/reunded"
+        android:ellipsize="end"
+        android:lines="1"
+        android:paddingLeft="14dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:textSize="22dp"
+        android:textColor="@color/black"
+        tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck,TouchTargetSizeCheck,TouchTargetSizeCheck" />
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_marginTop="26dp"
+        android:text="save"
+        android:textColor="#FFFFFF"
+        android:textSize="24dp"
+        android:id="@+id/btn_save"
+        android:backgroundTint="#302927"
+        android:textStyle="bold"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:background="@drawable/reunded"
+        android:layout_width="200dp"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"/>
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_marginTop="26dp"
+        android:text="back"
+        android:textColor="#FFFFFF"
+        android:textSize="24dp"
+        android:id="@+id/btn_back"
+        android:backgroundTint="#302927"
+        android:textStyle="bold"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:background="@drawable/reunded"
+        android:layout_width="200dp"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

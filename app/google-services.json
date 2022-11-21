@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "209043046495",
+    "firebase_url": "https://baitapck-8f632-default-rtdb.firebaseio.com",
+    "project_id": "baitapck-8f632",
+    "storage_bucket": "baitapck-8f632.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209043046495:android:b5d0f4a141bcec670e9bea",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209043046495-prd1bh74ql2t4boqelg8sel4osfl11bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn8N9u45jF14Skl1AaOYymp-AtewYniUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209043046495-prd1bh74ql2t4boqelg8sel4osfl11bn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

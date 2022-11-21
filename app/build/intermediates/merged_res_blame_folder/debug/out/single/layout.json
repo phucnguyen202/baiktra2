@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-42:\\layout\\activity_add_main.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-45:\\layout\\activity_add_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-42:\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-45:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-42:\\layout\\trangchu_item.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-45:\\layout\\trangchu_item.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-42:/layout/activity_splash_main.xml",
+        "source": "com.example.myapplication.app-main-45:/layout/activity_splash_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-42:\\layout\\activity_splash_main.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-45:\\layout\\activity_splash_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-42:\\layout\\fragment_trang_chu.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-45:\\layout\\fragment_trang_chu.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-42:/layout/activity_sign_up.xml",
+        "source": "com.example.myapplication.app-main-45:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-42:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-45:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-42:/layout/activity_add_main.xml",
+        "source": "com.example.myapplication.app-main-45:/layout/activity_add_main.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-42:/layout/activity_sign_in.xml",
+        "source": "com.example.myapplication.app-main-45:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-42:\\layout\\custom_dong_food.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-45:\\layout\\custom_dong_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-42:\\layout\\update_pop.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-45:\\layout\\update_pop.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-42:\\layout\\fragment_dow_load.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-45:\\layout\\fragment_dow_load.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-42:\\layout\\item_photo.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-45:\\layout\\item_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-42:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-45:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-42:\\layout\\activity_sign_in.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-45:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-42:\\layout\\fragment_mota_dowload.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-45:\\layout\\fragment_mota_dowload.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-mergeDebugResources-42:\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\LENOVO\\.gradle\\daemon\\7.3.3\\com.example.myapplication.app-main-45:\\layout\\activity_main2.xml"
+    }
+]
